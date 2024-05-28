@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/myImages">
+        <file>E:/Download/Icon/file-add.png</file>
+        <file>E:/Download/Icon/folder (1).png</file>
+        <file>E:/Download/Icon/folder-open.png</file>
+        <file>E:/Download/Icon/fund.png</file>
+        <file>E:/Download/Icon/pause-circle (1).png</file>
+    </qresource>
+    <qresource prefix="/projectImages">
+        <file>ImageResources/sinusoid.png</file>
+        <file>ImageResources/16right.png</file>
+    </qresource>
+</RCC>
